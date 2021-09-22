@@ -2,8 +2,7 @@
 
 #
 
- 🔭 Currently working on React projects
+ 🔭 Currently working on fun side projects
 
- 🌱 Learning Java!
 
  ⚡ Ask me about Star Wars ⚡
