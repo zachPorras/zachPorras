@@ -2,7 +2,7 @@
 
 #
 
- 🔭 Currently working on fun side projects
+ :cat: Currently working on fun side projects :cat:
 
 
  ⚡ Ask me about Star Wars ⚡
