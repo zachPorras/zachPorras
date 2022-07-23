@@ -1,7 +1,7 @@
 ## Hi, I'm Zach 👋
 :cyclone: I'm a full stack software engineer! :snake:
 
- :cat: Currently working on side projects & acquiring new skills :cat:
+ :cat: Currently working professionally with Vue.js, Python/Flask, and MongoDB :cat:
 
 
  🌌 Ask me about Star Wars stuff 🌌
